@@ -1,4 +1,4 @@
-# 👋 Hey Everyone! I'm Aryan Singh  
+# 👋 Hey Everyone! This is my 3d-Portfolio
 **BTech CSE Student | Machine Learning Developer | Full-Stack Engineer**
 
 <br>
