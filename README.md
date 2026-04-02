@@ -74,42 +74,6 @@ A **3D interactive portfolio** built with **React 19, Three.js, GSAP, and Tailwi
 
 ---
 
-## 🛠 <b><samp>Skills</samp></b>
-
-### <b><samp>Languages</samp></b>  
-![](https://skills.syvixor.com/api/icons?i=python,cpp,c,javascript&perline=18)
-
-### <b><samp>Machine Learning & AI</samp></b>  
-![](https://skills.syvixor.com/api/icons?i=tensorflow,opencv,scikitlearn&perline=18)
-
-### <b><samp>Deep Learning & NLP</samp></b>  
-<p>Transformers · RAG · FAISS · Whisper · EasyOCR · Pretrained Models</p>
-
-### <b><samp>Data & Embeddings</samp></b>  
-![](https://skills.syvixor.com/api/icons?i=numpy&perline=18)
-
-### <b><samp>Frontend</samp></b>  
-![](https://skills.syvixor.com/api/icons?i=html,css,javascript,react,threejs&perline=18)
-
-### <b><samp>Backend</samp></b>  
-![](https://skills.syvixor.com/api/icons?i=fastapi,nodejs&perline=18)
-
-### <b><samp>ML Pipeline & Deployment</samp></b>  
-![](https://skills.syvixor.com/api/icons?i=docker,aws,fastapi&perline=18)
-
-### <b><samp>Tools & Platforms</samp></b>  
-![](https://skills.syvixor.com/api/icons?i=git,vscode,anaconda&perline=18)
-
----
-
-## 🏆 <b><samp>Achievements</samp></b>
-
-- 🧠 **1600** LeetCode rating · **450+** DSA & ML problems across LeetCode, DeepML, CodeChef  
-- 📜 **Patent filed** — *Time Monitoring of Railway Infrastructure and Train Health* (202511047694)  
-- 🎓 **NPTEL** — Privacy and Security in Online Social Media (Apr 2025)  
-- 🏫 **B.Tech CSE** at Lovely Professional University — CGPA 7.98 (since Aug 2023)
-
----
 
 ## 🤸 <b><samp>Quick Start</samp></b>
 
@@ -137,15 +101,5 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173/) to view the portfolio.
 
----
-
-## 📬 <b><samp>Contact</samp></b>
-
-- **Email:** aryan.singh02903@gmail.com  
-- **LinkedIn:** [singh-aryan-as09](https://www.linkedin.com/in/singh-aryan-as09)  
-- **GitHub:** [AryanSingh833](https://github.com/AryanSingh833)  
-- **Instagram:** [aryan._.singh.0](https://www.instagram.com/aryan._.singh.0/)
-
----
 
 <p align="center"><samp>Built with ❤️ by Aryan Singh</samp></p>
