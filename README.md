@@ -62,18 +62,7 @@ A **3D interactive portfolio** built with **React 19, Three.js, GSAP, and Tailwi
 - Contact form powered by EmailJS
 - Highlights section (achievements, certifications, education)
 
----
-
-## 🧪 <b><samp>Projects Showcased</samp></b>
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Video Validation MicroService** | ~80% compliance detection via multimodal extraction + RAG-based policy reasoning | Whisper, EasyOCR, MiniLM, FAISS, Mistral (Ollama) |
-| **NPC — Bio-Inspired Settlement Simulation** | Slime-mold-style agents dynamically build cities and routes in real time | Python, NumPy, Pygame |
-| **Hybrid ML — CipherSchools** | Job role recommender with 91% accuracy from structured HR datasets | Scikit-Learn, feature engineering, model tuning |
-
----
-
+---------
 
 ## 🤸 <b><samp>Quick Start</samp></b>
 
